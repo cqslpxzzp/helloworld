@@ -1,0 +1,7 @@
+class hello
+public class hello{
+  public void mian(String[] args)
+  {
+    System.out.println("helloworld");
+  }
+}
